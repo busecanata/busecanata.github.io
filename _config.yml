@@ -3,14 +3,14 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
+name: Buse CANATA
 title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: busecanata@gmail.com
+website: busecanata.com.tr
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  busecanata
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
